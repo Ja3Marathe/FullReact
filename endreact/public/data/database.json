@@ -1,0 +1,86 @@
+{
+  "blogs": [
+    {
+      "id": "lorem-epsum-1",
+      "title": "My First Blog",
+      "url": "lorem-epsum-1",
+      "details": "<img src ='https://th.bing.com/th/id/OIP.w2boGHE3g4Bj602k-4DY4QHaF7?rs=1&pid=ImgDetMain'/><p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque distinctio itaque similique? Minus est cum temporibus molestias, amet asperiores facilis.</p><p> Temporibus quidem blanditiis velit explicabo accusamus iusto et qui consequuntur.</p>",
+      "author": "Jatin"
+    },
+    {
+      "id": "lorem-epsum-2",
+      "title": "My Second Blog",
+      "url": "lorem-epsum-2",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque distinctio itaque similique? Minus est cum temporibus molestias, amet asperiores facilis. Temporibus quidem blanditiis velit explicabo accusamus iusto et qui consequuntur.",
+      "author": "Jatin"
+    },
+    {
+      "id": "lorem-epsum-3",
+      "title": "My Third Blog",
+      "url": "lorem-epsum-3",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque distinctio itaque similique? Minus est cum temporibus molestias, amet asperiores facilis. Temporibus quidem blanditiis velit explicabo accusamus iusto et qui consequuntur.",
+      "author": "Bharat"
+    },
+    {
+      "id": "lorem-epsum-4",
+      "title": "My Forth Blog",
+      "url": "lorem-epsum-4",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque distinctio itaque similique? Minus est cum temporibus molestias, amet asperiores facilis. Temporibus quidem blanditiis velit explicabo accusamus iusto et qui consequuntur.",
+      "author": "jatin"
+    }
+  ],
+  "oldestBlogs": [
+    {
+      "id": "1",
+      "title": "My First Old Blog",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque distinctio itaque similique? Minus est cum temporibus molestias, amet asperiores facilis. Temporibus quidem blanditiis velit explicabo accusamus iusto et qui consequuntur.",
+      "date": "03/08/2024"
+    },
+    {
+      "id": "2",
+      "title": "My Second Old Blog",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque distinctio itaque similique? Minus est cum temporibus molestias, amet asperiores facilis. Temporibus quidem blanditiis velit explicabo accusamus iusto et qui consequuntur.",
+      "date": "03/08/2024"
+    },
+    {
+      "id": "3",
+      "title": "My Third Old Blog",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque distinctio itaque similique? Minus est cum temporibus molestias, amet asperiores facilis. Temporibus quidem blanditiis velit explicabo accusamus iusto et qui consequuntur.",
+      "date": "03/08/2024"
+    },
+    {
+      "id": "4",
+      "title": "My Forth Blog",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque distinctio itaque similique? Minus est cum temporibus molestias, amet asperiores facilis. Temporibus quidem blanditiis velit explicabo accusamus iusto et qui consequuntur.",
+      "author": "Prat"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "Yash Patil",
+    "age": 29
+  },
+  "college": {
+    "name": "Dr. BATU",
+    "place": "Lonere",
+    "startYear": 2012,
+    "endYear": 2016
+  },
+  "MyInfo": {
+    "name": "Jatin Marathe",
+    "age": "20",
+    "college": "RCP ACS",
+    "Branch": "BCA"
+  }
+}

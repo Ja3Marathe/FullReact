@@ -1,0 +1,89 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.Svg {
+    width: 60px;
+    height: 60px;
+}
+
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+    padding-right: 40px;
+    text-decoration: none;
+}
+
+.nav li {
+    text-decoration: none;
+}
+
+
+.blogsWrapper {
+    width: 660px;
+    text-align: justify;
+}
+
+.blogsContainer {
+    padding: 0 380px;
+}
+
+.formWrapper {
+    margin: 0 450px;
+    width: 300px;
+    padding: 30px 30px;
+    background: linear-gradient(240deg, rgb(85, 81, 81), yellow, rgb(74, 189, 227));
+    border-radius: 10px;
+}
+
+.inputWrapper {
+    padding-bottom: 20px;
+}
+
+.inputWrapper label {
+    display: block;
+    padding-bottom: 8px;
+    font-size: 20px;
+}
+
+.inputWrapper input {
+    width: 280px;
+    height: 25px;
+    border: none;
+    border-radius: 7px;
+    background-color: rgb(241, 237, 237);
+}
+
+.btn {
+    padding: 12px 28px;
+    font-size: 16px;
+    background: linear-gradient(90deg, rgb(73, 73, 162), rgb(94, 179, 208));
+    border: none;
+    border-radius: 7px;
+    color: white;
+    margin: 0 90px;
+    margin-top: 14px;
+    opacity: 1.1px;
+    text-transform: uppercase;
+    text-align: center;
+    cursor: pointer;
+}
+
+.Nav-Bar-Link a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 30px;
+}
